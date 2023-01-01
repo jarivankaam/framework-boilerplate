@@ -1,7 +1,7 @@
 # Framework Boilerplate
 ## by Jari van Kaam
 
-this project is made to simplify and speed up the process of creating a new project. It is loosely based on a framework I use in my internship. It is not meant to be used as a framework, but as a starting point for your own project. 
+this project is made to simplify and speed up the process of creating a `new project`. It is very loosely based on a framework I use in my internship. It is not meant to be used as a framework, but as a starting point for your own project. 
 
 ## Features
  - preconfigured watch commands for sass(scss) based css coding and Typescript.
