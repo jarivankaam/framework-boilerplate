@@ -7,7 +7,7 @@ this project is made to simplify and speed up the process of creating a `new pro
  - preconfigured watch commands for sass(scss) based css coding and Typescript.
  - preconfigured router(W.I.P.).
  - ordend file structure.
- - laravel like naming conventions in file names.
+ - laravel like naming conventions in folder names.
 
 ## Installation
 - clone the repository
