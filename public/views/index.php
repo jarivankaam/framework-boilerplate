@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
+<html lang="en">
+<?php require_once 'requires/head.php'; ?>
+
 <body>
-
-<h1>Keeshond</h1>
-
-
 </body>
 </html>
