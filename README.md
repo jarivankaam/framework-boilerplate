@@ -14,6 +14,6 @@ this project is made to simplify and speed up the process of creating a `new pro
 - run `npm i` or `yarn install` to install all dependencies
 - to watch for changes in folder __private/scss__ run `npm run watch:css` or `yarn watch:css`
 - to watch for changes in folder __private/ts__ run `npm run watch:ts` or `yarn watch:ts`
-- to scan the project use __npm run test__ or __yarn test__
+- to scan the project use `npm run test` or `yarn test`
 
 ## *This project is free to use, but please give credit where credit is due.*
