@@ -5,7 +5,7 @@ this project is made to simplify and speed up the process of creating a `new pro
 
 ## Features
  - preconfigured watch commands for sass(scss) based css coding and Typescript.
- - preconfigured router(W.I.P.).
+ - php file router
  - ordend file structure.
  - laravel like naming conventions in folder names.
 
