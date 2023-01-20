@@ -8,15 +8,7 @@ this project is made to simplify and speed up the process of creating a `new pro
  - php file router
  - ordend file structure.
  - laravel like naming conventions in folder names.
-
-## Installation
-- clone the repository
-- run `npm i` or `yarn install` to install all dependencies
-- to watch for changes in folder __private/scss__ run `npm run watch:css` or `yarn watch:css`
-- to watch for changes in folder __private/ts__ run `npm run watch:ts` or `yarn watch:ts`
-- to scan the project use `npm run test` or `yarn test`
-
-## file structure
+ ## file structure
 
 ```
 project
@@ -58,5 +50,14 @@ project
 └─── 404.php
 └─── index.php - containes routers
 ```
+
+## Installation
+- clone the repository
+- run `npm i` or `yarn install` to install all dependencies
+- to watch for changes in folder __private/scss__ run `npm run watch:css` or `yarn watch:css`
+- to watch for changes in folder __private/ts__ run `npm run watch:ts` or `yarn watch:ts`
+- to scan the project use `npm run test` or `yarn test`
+
+
 
 ## *This project is free to use, but please give credit where credit is due.*
