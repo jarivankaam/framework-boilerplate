@@ -16,4 +16,47 @@ this project is made to simplify and speed up the process of creating a `new pro
 - to watch for changes in folder __private/ts__ run `npm run watch:ts` or `yarn watch:ts`
 - to scan the project use `npm run test` or `yarn test`
 
+## file structure
+
+```
+project
+│   
+│   
+│
+└─── private
+|   |
+|   └─── scss
+|   |     |
+|   |     └─── base
+|   |     |
+|   |     └─── template-parts
+|   |     |
+|   |     └─── style.scss
+|   |
+│   │   
+│   │
+│   └─── TS
+│         └───  index.ts
+│       
+│   
+└─── public
+|    └─── views
+|    │   │
+|    |   └─── parts
+|    |   |     └─── section-test.php
+|    |   |     |
+|    |   |     └─── section-1.php
+|    |   |
+|    |   |
+|    |   └─── requires
+|    |   |      └─── head.php
+|    |   |      |
+|    |   |      └─── header.php
+|   
+└─── .gitignore
+└─── .htacces
+└─── 404.php
+└─── index.php - containes routers
+```
+
 ## *This project is free to use, but please give credit where credit is due.*
