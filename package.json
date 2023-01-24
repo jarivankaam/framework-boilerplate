@@ -22,7 +22,6 @@
   "homepage": "https://github.com/jarivankaam/framework-boilerplate#readme",
   "devDependencies": {
     "@types/node": "^18.11.18",
-    "routes-js": "^0.1.8",
     "sass": "^1.57.1",
     "snyk": "^1.1085.0",
     "typescript": "^4.9.4"
