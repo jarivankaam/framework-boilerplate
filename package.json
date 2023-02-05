@@ -7,7 +7,8 @@
     "watch:scss": "sass --watch private/scss/style.scss  ./public/css/main.css",
     "watch:ts": "tsc -w",
     "test": "snyk test",
-    "monitor": "snyk monitor"
+    "monitor": "snyk monitor",
+    "pack": "webpack"
   },
   "repository": {
     "type": "git",
@@ -22,8 +23,15 @@
   "homepage": "https://github.com/jarivankaam/framework-boilerplate#readme",
   "devDependencies": {
     "@types/node": "^18.11.18",
+    "css-loader": "^6.7.3",
+    "cssnano": "^5.1.14",
+    "node-sass": "^8.0.0",
+    "postcss-loader": "^7.0.2",
     "sass": "^1.57.1",
+    "sass-loader": "^13.2.0",
     "snyk": "^1.1085.0",
-    "typescript": "^4.9.4"
+    "style-loader": "^3.3.1",
+    "typescript": "^4.9.4",
+    "webpack-cli": "^5.0.1"
   }
 }
