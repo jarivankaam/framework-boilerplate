@@ -1,9 +1,9 @@
 <?php
 
 $routes = [
-  '/' => '/public/views/index.php',
-  '/about' => '/public/views/about.php',
-  '/contact' => '/public/views/contact.php',
+  '/' => './public/views/index.php',
+  '/about' => './public/views/about.php',
+  '/contact' => './public/views/contact.php',
 ];
 
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
